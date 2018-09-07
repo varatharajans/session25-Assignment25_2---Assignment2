@@ -1,7 +1,9 @@
 # session25-Assignment25_2---Assignment2
 
-Data Analytics SESSION 25: GETTING STARTED WITH RDBMS
-Assignment 2
+                      Data Analytics SESSION 25: GETTING STARTED WITH RDBMS
+                                  Assignment 2
+Assignment question received through Email
+
 Data Analytics 
 1. Introduction This assignment will help you understand the concepts learnt in the session. 
 2. Objective To understand and be able to manipulate SQL queries.
